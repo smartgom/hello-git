@@ -1,3 +1,5 @@
+ https://training.github.com/downloads/es_ES/github-git-cheat-sheet/
+
 Comandos:
 
 git init (creará la carpeta oculta .init)
