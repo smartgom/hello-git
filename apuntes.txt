@@ -1,0 +1,13 @@
+Comandos:
+
+git init (creará la carpeta oculta .init)
+git branch -m main (cambiará el nombre de master a main)
+git confing
+git log
+git tree (alias)
+git add "nombreFichero.xx"
+git add . (para añadir todos los ficheros del directorio)
+git commit -m "mensaje descriptivo"
+git tag "etiqueta_que_queramos"
+git checkout nombreRama
+git switch nombreRama
