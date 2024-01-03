@@ -1,0 +1,6 @@
+Comandos:
+
+git add "nombreFichero.xx"
+git add . (para añadir todos los ficheros del directorio)
+git commit -m "mensaje descriptivo"
+git tag "etiqueta_que_queramos"
